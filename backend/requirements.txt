@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+web3
+textblob
+numpy
+scikit-learn
+psycopg2

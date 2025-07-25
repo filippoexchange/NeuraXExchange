@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^1.0.0",
+    "ethers": "^6.15.0"
+  },
+  "name": "neuraxexchange",
+  "version": "1.0.0",
+  "main": "flashbots.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
