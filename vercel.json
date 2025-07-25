@@ -1,11 +1,5 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "frontend/src/App.jsx",
-      "use": "@vercel/react"
-    }
-  ],
   "routes": [
     { "src": "/(.*)", "dest": "/frontend/src/App.jsx" }
   ]
