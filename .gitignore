@@ -24,3 +24,6 @@ env/
 __pycache__/
 *.pyc
 node_modules/
+scripts/*.log
+scripts/*.cache
+scripts/temp/
